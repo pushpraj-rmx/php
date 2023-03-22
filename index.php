@@ -10,6 +10,17 @@
 
 <body> -->
 
+<!-- TODO: this is a todo list  -->
+
+<!-- FIXME: this is a todo list  -->
+<!-- BUG: -->
+<!-- 
+
+FIXME: TODO: 
+
+
+
+ -->
 <?php
 echo <<<HTML
 
